@@ -1,0 +1,122 @@
+[
+  {
+    "mainTitle": "bar",
+    "items": [
+      {
+        "title": "Bar Screen",
+        "logo": "0"
+      },
+      {
+        "title": "Bar Screen Automatic",
+        "logo": "1"
+      }
+    ]
+  },
+  {
+    "mainTitle": "equilisation",
+    "items": [
+      {
+        "logo": "0",
+        "title": "sewage pump"
+      },
+      {
+        "logo": "1",
+        "title": "Level Sensor",
+        "heading": "sewage tank"
+      }
+    ]
+  },
+  {
+    "mainTitle": "Aeration",
+    "items": [
+      {
+        "logo": "2",
+        "title": "Bar Pumps"
+      },
+      {
+        "logo": "0",
+        "title": "Level Sensor",
+        "heading": "Aeration Tank"
+      }
+    ]
+  },
+
+  {
+    "mainTitle": "bar",
+    "items": [
+      {
+        "title": "Bar Screen",
+        "logo": "0"
+      },
+      {
+        "title": "Bar Screen Automatic",
+        "logo": "1"
+      }
+    ]
+  },
+  {
+    "mainTitle": "bar",
+    "items": [
+      {
+        "title": "Bar Screen",
+        "logo": "0"
+      },
+      {
+        "title": "Bar Screen Automatic",
+        "logo": "1"
+      }
+    ]
+  },
+  {
+    "mainTitle": "bar",
+    "items": [
+      {
+        "title": "Bar Screen",
+        "logo": "0"
+      },
+      {
+        "title": "Bar Screen Automatic",
+        "logo": "1"
+      }
+    ]
+  },
+  {
+    "mainTitle": "bar",
+    "items": [
+      {
+        "title": "Bar Screen",
+        "logo": "0"
+      },
+      {
+        "title": "Bar Screen Automatic",
+        "logo": "1"
+      }
+    ]
+  },
+  {
+    "mainTitle": "bar",
+    "items": [
+      {
+        "title": "Bar Screen",
+        "logo": "1"
+      },
+      {
+        "title": "Bar Screen Automatic",
+        "logo": "2"
+      }
+    ]
+  },
+  {
+    "mainTitle": "bar",
+    "items": [
+      {
+        "title": "Bar Screen",
+        "logo": "1"
+      },
+      {
+        "title": "Bar Screen Automatic",
+        "logo": "2"
+      }
+    ]
+  }
+]
